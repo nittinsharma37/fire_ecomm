@@ -81,6 +81,8 @@ For major changes or new features, please open an issue first to discuss what yo
 
 Please make sure to update tests as appropriate and adhere to the project's coding standards.
 
+#### Made with ❤ by [@nittinsharma37](https://github.com/nittinsharma37)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
